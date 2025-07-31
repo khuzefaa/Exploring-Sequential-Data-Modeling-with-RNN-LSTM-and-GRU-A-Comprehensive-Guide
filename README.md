@@ -1,0 +1,2 @@
+# Exploring-Sequential-Data-Modeling-with-RNN-LSTM-and-GRU-A-Comprehensive-Guide
+provides an in-depth exploration of sequential data modeling using Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM), and Gated Recurrent Unit (GRU) architectures.an introduction to sequential data, highlighting its differences from static data and its real-world applications, such as time series, text, and speech processing.
